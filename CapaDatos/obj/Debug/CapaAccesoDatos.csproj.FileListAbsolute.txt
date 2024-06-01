@@ -1,0 +1,6 @@
+C:\Users\navi1\source\repos\Capas PH\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\navi1\source\repos\Capas PH\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\navi1\source\repos\Capas PH\CapaDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\navi1\source\repos\Capas PH\CapaDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\navi1\source\repos\Capas PH\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\navi1\source\repos\Capas PH\CapaDatos\obj\Debug\CapaDatos.pdb

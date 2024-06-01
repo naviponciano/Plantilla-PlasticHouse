@@ -1,0 +1,9 @@
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.AssemblyReference.cache
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.dll
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.pdb
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\bin\Debug\CapaDatos.dll
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.CopyComplete
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.dll
+C:\Users\navi1\source\repos\Capas PH\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.pdb

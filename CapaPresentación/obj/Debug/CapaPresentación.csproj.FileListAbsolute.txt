@@ -1,0 +1,16 @@
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\bin\Debug\CapaPresentación.exe.config
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\bin\Debug\CapaPresentación.exe
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\bin\Debug\CapaLogicadeNegocio.dll
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\bin\Debug\CapaLogicadeNegocio.pdb
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.exe
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.Frmlogin.resources
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.FrmRegistropersonal.resources
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.Frmpantallaprincipal.resources
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.FrmProducto.resources
