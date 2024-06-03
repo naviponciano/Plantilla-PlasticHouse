@@ -46,5 +46,20 @@ namespace CapaPresentación
         {
 
         }
+
+        private void cATALOGOToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iNICIOToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ingresarProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
