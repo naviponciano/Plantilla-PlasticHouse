@@ -46,25 +46,40 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmProducto.cs">
+    <Compile Include="FrmEmpleados1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmProducto.Designer.cs">
-      <DependentUpon>FrmProducto.cs</DependentUpon>
+    <Compile Include="FrmEmpleados1.Designer.cs">
+      <DependentUpon>FrmEmpleados1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frmpantallaprincipal.cs">
+    <Compile Include="FrmInicioLogn.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Frmpantallaprincipal.Designer.cs">
-      <DependentUpon>Frmpantallaprincipal.cs</DependentUpon>
+    <Compile Include="FrmInicioLogn.Designer.cs">
+      <DependentUpon>FrmInicioLogn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal1.Designer.cs">
+      <DependentUpon>FrmPrincipal1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuario1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario1.Designer.cs">
+      <DependentUpon>FrmUsuario1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Frmpantallaprincipal.resx">
-      <DependentUpon>Frmpantallaprincipal.cs</DependentUpon>
+    <EmbeddedResource Include="FrmInicioLogn.resx">
+      <DependentUpon>FrmInicioLogn.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmProducto.resx">
-      <DependentUpon>FrmProducto.cs</DependentUpon>
+    <EmbeddedResource Include="FrmPrincipal1.resx">
+      <DependentUpon>FrmPrincipal1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario1.resx">
+      <DependentUpon>FrmUsuario1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -91,9 +106,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Plastic-House logo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Resources\catalogo.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\invoice_12139779.png" />

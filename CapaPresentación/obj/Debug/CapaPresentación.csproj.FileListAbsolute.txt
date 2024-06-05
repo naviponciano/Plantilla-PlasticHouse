@@ -14,3 +14,5 @@ C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentaci�
 C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.FrmRegistropersonal.resources
 C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.Frmpantallaprincipal.resources
 C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.FrmProducto.resources
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.FrmInicioLogn.resources
+C:\Users\navi1\source\repos\Capas PH\CapaPresentación\obj\Debug\CapaPresentación.FrmPrincipal1.resources
